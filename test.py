@@ -1,1 +1,1 @@
-print("hello rzq~~~~~~.")
+print("hello rzq~~~rzq~~~.")
